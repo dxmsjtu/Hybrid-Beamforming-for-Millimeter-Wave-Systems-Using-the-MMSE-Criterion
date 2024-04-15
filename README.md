@@ -21,7 +21,8 @@ and all codes are openned at [this repo](https://github.com/TianLin0509/BF-desig
 
 
 
-I only update the codes for narrowband cases, but the extension to broadband is straightforward. which can be referred to my another repository named "August_mmwave", [gateway](https://github.com/TianLin0509/August_mmwave). however, the later is written in a bad form so not easy to read. I don't have enough time now, so maybe it will be updated in the future.
+I only update the codes for narrowband cases, but the extension to broadband is straightforward. which 
+can be referred to my another repository named "August_mmwave", [gateway](https://github.com/TianLin0509/August_mmwave). however, the later is written in a bad form so not easy to read. I don't have enough time now, so maybe it will be updated in the future.
 
 ## How to use
 This code is really is to use. First, you should totally add all packages to the path, so you can use these functions. Then, just run the ```main_vs_SNR.m``` file directly. 

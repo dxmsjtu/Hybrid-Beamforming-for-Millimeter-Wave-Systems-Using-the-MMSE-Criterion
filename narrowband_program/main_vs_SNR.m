@@ -4,7 +4,7 @@
 
 clear all;  close all; clc;
 disp(datestr(now));
-
+addpath(genpath(fileparts(mfilename('fullpath'))));
 %set up simulation parameters;
 SNR_dB = (-15:5:5);
 
